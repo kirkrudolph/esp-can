@@ -1,0 +1,6 @@
+# Build directories
+idf-example/twai_alert_and_recovery/build
+idf-example/twai_network/twai_network_listen_only/build
+idf-example/twai_network/twai_network_master/build
+idf-example/twai_network/twai_network_slave/build
+idf-example/twai_self_test/build

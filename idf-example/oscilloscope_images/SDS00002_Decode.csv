@@ -1,0 +1,2 @@
+CAN, Time, Type, ID, Length, Data, CRC, ACK 
+1,-18.0780us,D,0x0A2,0,,0x6E44,no
